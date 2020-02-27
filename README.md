@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/QuentinDesse/Domotique">
-    <img src="house_38533.png" alt="Logo" width="80" height="80">
+    <img src="images/house_38533.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DOMOTIQUE PROJECT</h3>
