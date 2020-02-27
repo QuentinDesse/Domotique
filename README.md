@@ -158,11 +158,12 @@ Student n°1 : [https://github.com/QuentinDesse](https://github.com/QuentinDesse
 Student n°2 : [https://github.com/Aredi](https://github.com/Aredi)
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Useful link and ressources
 
-* []()
-* []()
-* []()
+* [DLL of the card K8055.](https://seththefly.fr/download/k8055-dll/)
+* [serveur socket](https://fr.wikipedia.org/wiki/Socket)
+* [c++ Builder](https://fr.wikipedia.org/wiki/C%2B%2BBuilder)
+* [Android studio](https://developer.android.com/studio)
 
 
 
