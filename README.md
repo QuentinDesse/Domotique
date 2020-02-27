@@ -49,11 +49,9 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Useful_link_and_ressources](#Useful link and ressources)
 
 
 
@@ -154,10 +152,10 @@ git clone https://github.com/<YOUR_GITHUB_USERNAME>/DomotiqueBuilder
 
 <!-- CONTACT -->
 ## Contact
-Student n°1 : [https://github.com/QuentinDesse](https://github.com/QuentinDesse)
-Student n°2 : [https://github.com/Aredi](https://github.com/Aredi)
+* Student n°1 : [https://github.com/QuentinDesse](https://github.com/QuentinDesse)
+* Student n°2 : [https://github.com/Aredi](https://github.com/Aredi)
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- Useful link and ressources -->
 ## Useful link and ressources
 
 * [DLL of the card K8055.](https://seththefly.fr/download/k8055-dll/)
