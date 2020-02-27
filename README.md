@@ -132,9 +132,11 @@ npm install
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+<p align="center">
+  <a href="#">
+    <img src="exemple.png" alt="image exemple">
+    <a>
+  </p>
 
 
 <!-- CONTRIBUTING -->
